@@ -1,7 +1,8 @@
 # API_ArXiv
-API da Universidade de Cornell (ArXiv)
-Projeto 3 do curso de formação em Data Analysis pela Iron Hack.
-URL da apresentação no Tableau Public: https://public.tableau.com/app/profile/gustavo.ururahy.corr.a/viz/ArXiv/Histria1
+  - API da Universidade de Cornell (ArXiv)
+  - Projeto 3 do curso de formação em Data Analysis pela Iron Hack.
+  - URL da apresentação no Tableau Public: 
+    - https://public.tableau.com/app/profile/gustavo.ururahy.corr.a/viz/ArXiv/Histria1
 
 Pontos obrigatórios do projeto:
   - Construir através de uma API ou Web Scraping um DataFrame com dados para análise
