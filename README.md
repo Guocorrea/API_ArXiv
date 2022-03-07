@@ -11,12 +11,23 @@ Pontos obrigatórios do projeto:
   - Criar um engine para extrair os dados do SQL para o Python
   - Criar uma visualização dos resultados no Tableau e apresentar
 
+# Fonte de Dados
+  - https://arxiv.org/
+ 
+# Tecnologia Utilizada
+  - Python
+  - PostgreSQL 
+     - DBeaver
+  - Tableau Public
+
 # Introdução do Projeto:
   A API ArXiv, da Universidade de Cornell, é uma API que fornece informações sobre as publicações científicas no mundo. Na documentação da API consta as áreas do conhecimento que podem ser acessadas, assim buscamos artigos relacionados a estresse e epigenética dentro da categoria "Biologia Molecular Quantitativa".
   A epigenética é um campo relativamente novo da biologia molecular, assim, analisar as temáticas relacionadas ao tema pode nos mostrar o comportamento das publicações científicas frente a criação de novos paradigmas do conhecimento.
   
 # Método:
-  - Através da API ArXiv, acessar as publicações relacionadas a estresse e genética nos últimos 30 anos.
+  - Através da API ArXiv, utilizar  o python para acessar as publicações relacionadas a estresse e genética nos últimos 30 anos.
+  - Armazenar as informações obtidas em um SCHEMA do SQL
+  - Criar um engine para puxar as informações do SQL para o Python
   - Fazer uma análise do total de publicações por ano, as principais revistas científicas do período e os temas de cada artigo.
   - Criar uma apresentação no Tableau com os resultados e insights obtidos.
   
